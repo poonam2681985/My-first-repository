@@ -1,2 +1,2 @@
 # My-first-repository
-Its html and css file in this repository
+Its python and png file in this repository
